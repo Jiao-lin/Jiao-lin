@@ -2,6 +2,14 @@
 
 <h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/facundo-ramirez-cambareri-4a426b1a5/">Facundo</a> - aka Jiao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
+<pre>
+💻 I am a self taught Full Stack Developer
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🌟 Main languages: Java, JavaScript
+🚩 Interested in Full Stack Api development
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+</pre>
+
 ## 🛠️ My Skills
 
 ### Frontend development:

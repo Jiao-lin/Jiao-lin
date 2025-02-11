@@ -7,7 +7,7 @@
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌟 Main languages: Java, JavaScript
 🚩 Interested in Full Stack Api development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1bzHx3MpyHhgVHmFjutyMlIetnWnMpfk6/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
 ## 🛠️ My Skills
@@ -60,4 +60,9 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
+<h1 align="center">Profile stats</h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jiao-lin&show_icons=true&locale=en&layout=compact" alt="Jiao-lin" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiao-lin&show_icons=true&locale=en" alt="Jiao-lin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiao-lin&" alt="Jiao-lin" /></p>

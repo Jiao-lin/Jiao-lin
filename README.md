@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQF0CN4s0TZgOg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739157199980?e=1744848000&v=beta&t=akww084Zdovyf59QTQ35-ht2U4gMgr26H7KY619lzi0">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQF0CN4s0TZgOg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739157199980?e=1744848000&v=beta&t=akww084Zdovyf59QTQ35-ht2U4gMgr26H7KY619lzi0"></img>
 
 <h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/facundo-ramirez-cambareri-4a426b1a5/">Facundo</a> - aka Jiao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
